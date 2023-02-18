@@ -1,6 +1,6 @@
 // 1. Ways to print in JavaScript
 // console.log("Hello World");
-// alert("me");
+alert("Remember project");
 // document.write("this is document write")
 
 // 2. Javascript console API
@@ -300,3 +300,4 @@ logKaro = ()=>{
 // Template literals - Backticks
 a = 34;
 console.log(`this is my ${a}`)
+// dom menuplutian

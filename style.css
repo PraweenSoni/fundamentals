@@ -6,6 +6,13 @@
 body {
     font-size: 15pt;
 }
+.selection{
+ background-color: white;
+}
+.selection::selection {
+ color: red;
+ background-color: greenyellow;
+}
 .heading{
   color: red;
   background-color: blue;
