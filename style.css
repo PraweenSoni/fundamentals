@@ -17,11 +17,6 @@ body {
   color: red;
   background-color: blue;
 }
-.content{
-  background-color: black;
-  border:2px solid magenta;
-  color: blanchedalmond;
-}
 marquee{
   color: green;
   background-color: greenyellow;
@@ -106,5 +101,14 @@ marquee{
  width: 60px;
  background-color: red;
  border-bottom: 5px solid black;
- 
+}
+@media ( orientation: portrait){
+ body{
+  background-color: red;
+ }
+}
+@media ( orientation: landscape){
+ body{
+  background-color: deepskyblue;
+ }
 }

@@ -301,3 +301,8 @@ logKaro = ()=>{
 a = 34;
 console.log(`this is my ${a}`)
 // dom menuplutian
+
+
+let useragrnt = navigator;
+console.log(useragrnt);
+document.write(user.appVersion);
