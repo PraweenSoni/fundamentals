@@ -4,21 +4,13 @@ This repository contains my learning materials for various programming languages
 
 ## Table of Contents
 
-- [JavaScript](#javascript)
 - [HTML](#html)
 - [CSS](#css)
+- [JavaScript](#javascript)
+- [Java](#java)
 - [Python](#python)
 - [Ruby](#ruby)
 
-## JavaScript
-
-The `javascript` folder contains my JavaScript learning materials. This includes:
-
-- Basics of JavaScript
-- DOM Manipulation
-- ES6+ Features
-<!-- - Asynchronous Programming -->
-<!-- - Projects and Exercises -->
 
 ## HTML
 
@@ -39,6 +31,22 @@ The `css` folder contains my CSS learning materials. This includes:
 <!-- - Responsive Design -->
 - CSS Animations
 - Projects and Exercises
+
+## JavaScript
+
+The `javascript` folder contains my JavaScript learning materials. This includes:
+
+- Basics of JavaScript
+- DOM Manipulation
+- ES6+ Features
+<!-- - Asynchronous Programming -->
+<!-- - Projects and Exercises -->
+
+## Java
+
+The `java` folder contains my java learning materials. This includes:
+
+- Java Basics program
 
 ## Python
 
