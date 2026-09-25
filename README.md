@@ -10,6 +10,7 @@ This repository contains my learning materials for various programming languages
 - [Java](#java)
 - [Python](#python)
 - [Ruby](#ruby)
+- [R](#R)
 
 
 ## HTML
